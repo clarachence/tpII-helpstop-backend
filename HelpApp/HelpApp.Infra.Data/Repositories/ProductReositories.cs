@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace HelpApp.Infra.IoC
+namespace HelpApp.Infra.Data.Repositories
 {
-    internal class DependencyInjectionAPI
+    internal class ProductReositories
     {
     }
 }

@@ -1,4 +1,4 @@
-﻿using HelpApp.Domain.Entities;
+using HelpApp.Domain.Entities;
 using FluentAssertions;
 using Xunit;
 namespace HelpApp.Domain.Test

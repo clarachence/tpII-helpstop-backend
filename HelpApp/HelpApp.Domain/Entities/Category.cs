@@ -1,4 +1,5 @@
-﻿using HelpApp.Domain.Validation;
+using HelpApp.Domain.Validation;
+
 
 namespace HelpApp.Domain.Entities
 {

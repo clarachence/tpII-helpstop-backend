@@ -8,6 +8,7 @@ namespace HelpApp.Application.Mappings
         public DomainToDTOMappingProfile()
         {
             CreateMap<Category, CategoryDTO>.ReverseMap();
+            CreateMap<Product, ProductDTO>.ReverseMap();
         }
     }
 }
